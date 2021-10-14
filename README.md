@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 # 👋 /bin/bash -p
 
+![](https://komarev.com/ghpvc/?username=devCli3nt&label=PROFILE+VIEWS)
+
 -  📫 gouravsuram91@gmail.com
 -  🔭 I’m currently busy Playing CTFs (CTFTime, HackTheBox, TryHackMe, Pwnable.kr)
 -  🌱 I’m currently learning Penetration Testing & Preparing For OSCP !
