@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -  🎓 Computer Science Engineering Student
 
 <h2> HackTheBox Profile </h2>
- <p align="center">
+ <p>
  <img src="http://www.hackthebox.eu/badge/image/670089" alt="Hack The Box">
  </p>
  
