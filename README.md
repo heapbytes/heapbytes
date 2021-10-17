@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 -  🌱 I’m currently learning Penetration Testing & Preparing For OSCP !
 -  🎓 Computer Science Engineering Student
 
+<h2> HackTheBox Profile </h2>
+ <p align="center">
+ <img src="http://www.hackthebox.eu/badge/image/670089" alt="Hack The Box">
+ </p>
+ 
  
 <h2>🔥 Streak Stats</h2>
 
@@ -33,10 +38,6 @@ Here are some ideas to get you started:
 </p>
 
 ![Cli3nt's github stats](https://github-readme-stats.vercel.app/api?username=devCli3nt&count_private=true&show_icons=true&theme=radical)<a href="https://github.com/devCli3nt">
- <p align="center">
- <img src="http://www.hackthebox.eu/badge/image/670089" alt="Hack The Box">
- </p>
- 
  
 <a href="https://github.com/devCli3nt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devCli3nt&layout=compact&theme=radical"/></a>
 
