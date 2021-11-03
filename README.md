@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![](https://komarev.com/ghpvc/?username=devCli3nt&label=PROFILE+VIEWS)
 ![binary_exploitation](https://user-images.githubusercontent.com/56447720/140089830-181e9f8a-6678-481b-8b32-305e899a96dc.jpeg)
 
 
 # 👋 /bin/bash -p
 
-![](https://komarev.com/ghpvc/?username=devCli3nt&label=PROFILE+VIEWS)
+
 
 -  📫 gouravsuram91@gmail.com
 -  🔭 I’m currently busy Playing CTFs (CTFTime, HackTheBox, TryHackMe, Pwnable.kr)
