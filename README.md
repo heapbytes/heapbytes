@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  <img src="http://www.hackthebox.eu/badge/image/670089" alt="Hack The Box">
  </p>
  
- 
+ <!--
 <h2>🔥 Streak Stats</h2>
 
 <p align="center">
@@ -44,3 +44,4 @@ Here are some ideas to get you started:
  
 <a href="https://github.com/devCli3nt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devCli3nt&layout=compact&theme=radical"/></a>
 
+-->
