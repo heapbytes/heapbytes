@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Binary 
+
+![binary_exploitation](https://user-images.githubusercontent.com/56447720/140089830-181e9f8a-6678-481b-8b32-305e899a96dc.jpeg)
 
 
 # 👋 /bin/bash -p
