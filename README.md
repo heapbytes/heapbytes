@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h2> HackTheBox Profile </h2>
  <p>
- <img src="https://www.hackthebox.com/badge/image/670089" alt="Hack The Box">
+ <script src="https://www.hackthebox.eu/badge/670089"></script>
  </p>
  
  <!--
