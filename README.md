@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 -  🎓 Computer Science Engineering Student
 
 <h2> HackTheBox Profile </h2>
- <p>
- <script src="https://www.hackthebox.eu/badge/670089"></script>
- </p>
+<script src="https://www.hackthebox.eu/badge/670089"></script>
+
  
  <!--
 <h2>🔥 Streak Stats</h2>
