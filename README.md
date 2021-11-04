@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -  🎓 Computer Science Engineering Student
 
 <h2> HackTheBox Profile </h2>
-<script src= "https://www.hackthebox.eu/badge/670089" > </script>
+<img src="http://www.hackthebox.eu/badge/image/670089" alt="Hack The Box">
 
  
  <!--
