@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=devCli3nt&label=PROFILE+VIEWS)
 
-![image](https://user-images.githubusercontent.com/56447720/140892280-1572950c-b54a-4617-8425-13a7d16f6368.png)
+![image](https://user-images.githubusercontent.com/56447720/140893353-1a56b35f-2474-444b-a85f-b2db84d76e31.png)
 
 
 
