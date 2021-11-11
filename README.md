@@ -45,3 +45,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/devCli3nt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devCli3nt&layout=compact&theme=radical"/></a>
 
 -->
+<script src="https://www.hackthebox.eu/badge/670089"></script>
