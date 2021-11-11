@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 -  🌱 I’m currently learning Penetration Testing & Preparing For OSCP !
 -  🎓 Computer Science Engineering Student
 
-<h2> HackTheBox Profile </h2>
-<img src="http://www.hackthebox.eu/badge/image/670089" alt="Hack The Box">
+
 
  
  <!--
