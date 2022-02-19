@@ -46,7 +46,10 @@ Here are some ideas to get you started:
 
 -->
 # HackTheBox profile
-<img src="http://www.hackthebox.eu/badge/image/670089" alt="Hack The Box">
+
+<a href = "https://app.hackthebox.com/users/670089">
+ <img src="http://www.hackthebox.eu/badge/image/670089" alt="Hack The Box">
+</a>
 
 # TryHackMe profile
 
