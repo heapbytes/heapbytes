@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 -->
 # HackTheBox profile
 
-<a href = "https://app.hackthebox.com/users/670089">
+<a href = "https://app.hackthebox.com/users/670089" target="_blank" rel="noopener noreferrer">
  <img src="http://www.hackthebox.eu/badge/image/670089" alt="Hack The Box">
 </a>
 
 # TryHackMe profile
-
+<a href = "https://www.tryhackme.com/p/Cli3nt" target="_blank" rel="noopener noreferrer">
 <img src="https://tryhackme-badges.s3.amazonaws.com/Cli3nt.png" alt="TryHackMe">
-
+</a>
 
 
