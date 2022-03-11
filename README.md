@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=devCli3nt&label=PROFILE+VIEWS)
 
 <a href = "https://heapbytes.github.io">
-<img src= "https://user-images.githubusercontent.com/56447720/157298027-e93d316c-32fb-4064-ac2e-ebe4de166d61.png">
+<!-- <img src= "https://user-images.githubusercontent.com/56447720/157298027-e93d316c-32fb-4064-ac2e-ebe4de166d61.png"> -->
 
-<!-- <img src = "https://user-images.githubusercontent.com/56447720/140893353-1a56b35f-2474-444b-a85f-b2db84d76e31.png"> -->
+<img src = "https://user-images.githubusercontent.com/56447720/140893353-1a56b35f-2474-444b-a85f-b2db84d76e31.png"> 
 </a>
 
 
