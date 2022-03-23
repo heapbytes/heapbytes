@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
- 
+
  <!--
 <h2>🔥 Streak Stats</h2>
 
@@ -58,5 +58,7 @@ Here are some ideas to get you started:
 <a href = "https://www.tryhackme.com/p/Cli3nt" target="_blank" rel="noopener noreferrer">
 <img src="https://tryhackme-badges.s3.amazonaws.com/Cli3nt.png" alt="TryHackMe">
 </a>
+ <h2>🔥 Streak Stats</h2>
 
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=heapbytes&theme=dracula" alt="heapbytes" />
 
