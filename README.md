@@ -1,4 +1,3 @@
-
 <p align="center">
   <samp>
     <a href="https://uchiha.ml">blog</a> .
