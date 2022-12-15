@@ -12,8 +12,8 @@
   heapbytes@GitHub
   -----------------
   Name: G0urav
-  Favorite Language: Python
-  Intrests: Security
+  Languages: ["Python", "C", "Bash", "Java"]
+  Intrests: ["CyberSecurity", "Linux"]
   OS: ArchLinux x86_64  
   Uptime: 19 Years
   ```
