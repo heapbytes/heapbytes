@@ -28,7 +28,8 @@
     $  <a href="https://youtube.com/@heapbytes">youtube</a> .
     <a href="https://heapbytes.github.io">blog</a> .
     <a href="https://twitter.com/heapbytes">twitter</a> .
-    <a href="https://discordapp.com/users/720625442662383688">discord</a>  $
+    <a href="https://discordapp.com/users/720625442662383688">discord</a> .
+    <a href="https://github.com/vitunix">project</a> $
   </samp>
 </p>
 
