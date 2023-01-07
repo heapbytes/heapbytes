@@ -13,7 +13,7 @@
   -----------------
   Name: G0urav
   Languages: ["Python", "C", "Bash", "Java"]
-  Intrests: ["CyberSecurity", "Linux"]
+  Intrests: ["CyberSecurity", "Linux", "FOSS"]
   OS: ArchLinux x86_64  
   Uptime: 19 Years
   ```
