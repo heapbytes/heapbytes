@@ -25,11 +25,11 @@
 <br />
 <p align="center">
   <samp>
-    $  <a href="https://youtube.com/@heapbytes">youtube</a> .
-    <a href="https://heapbytes.github.io">blog</a> .
-    <a href="https://twitter.com/heapbytes">twitter</a> .
-    <a href="https://discordapp.com/users/720625442662383688">discord</a> .
-    <a href="https://github.com/vitunix">project-vitunix</a> $
+    $  <a href="https://youtube.com/@heapbytes" target="_blank">youtube</a> .
+    <a href="https://heapbytes.github.io" target="_blank">blog</a> .
+    <a href="https://twitter.com/heapbytes" target="_blank">twitter</a> .
+    <a href="https://discordapp.com/users/720625442662383688" target="_blank">discord</a> .
+    <a href="https://github.com/vitunix" target="_blank">project-vitunix</a> $
   </samp>
 </p>
 
