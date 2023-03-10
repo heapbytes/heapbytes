@@ -12,9 +12,9 @@
   heapbytes@GitHub
   -----------------
   Name: G0urav
+  OS: Vitunix x86_64
   Languages: ["Python", "C", "Bash", "Java"]
-  Intrests: ["CyberSecurity", "Linux", "FOSS"]
-  OS: Vitunix x86_64  
+  Intrests: ["CyberSecurity", "Linux", "FOSS"]  
   Uptime: 19 Years
   ```
 </div>
