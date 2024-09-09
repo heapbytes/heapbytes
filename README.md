@@ -28,7 +28,7 @@
     <a href="https://gist.github.com/heapbytes" target="_blank">gists</a> .
     <a href="https://heapbytes.tech" target="_blank">blog</a> .
     <a href="https://twitter.com/heapbytes" target="_blank">twitter</a> .
-    <a href="https://discordapp.com/users/720625442662383688" target="_blank">discord</a> .
+    <a href="https://discordapp.com/users/720625442662383688" target="_blank">discord</a> . $
   </samp>
 </p>
 
