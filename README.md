@@ -15,7 +15,7 @@
   OS: Vitunix x86_64
   Languages: ["Python", "C", "Bash", "Java"]
   Intrests: ["CyberSecurity", "Linux", "FOSS"]  
-  Uptime: 21 Years
+  Uptime: 22 Years
   ```
 </div>
 
